@@ -54,7 +54,3 @@ It uses a webcam to track your hand in real time and lets you interact with on s
 - All processing is done locally in the browser
 - No video data is stored or transmitted
 - Designed as a gesture interaction experiment and foundation for future extensions
-
-## License
-
-MIT
